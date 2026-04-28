@@ -1,0 +1,138 @@
+country,year,indicator,value
+Bahrain,2011,Labour force participation rate (%),71.7
+Bahrain,2011,Employment-to-population ratio (%),71.1
+Kuwait,2011,Labour force participation rate (%),75.1
+Kuwait,2011,Unemployment rate (%),3.6
+Kuwait,2011,Employment-to-population ratio (%),72.4
+Oman,2011,Employment-to-population ratio (%),57.7
+Qatar,2011,Labour force participation rate (%),86.7
+Qatar,2011,Unemployment rate (%),0.6
+Qatar,2011,Employment-to-population ratio (%),86.2
+Saudi Arabia,2011,Labour force participation rate (%),53.2
+Saudi Arabia,2011,Unemployment rate (%),5.8
+Saudi Arabia,2011,Employment-to-population ratio (%),50.1
+Bahrain,2012,Labour force participation rate (%),71.7
+Bahrain,2012,Employment-to-population ratio (%),71.0
+Kuwait,2012,Labour force participation rate (%),71.0
+Kuwait,2012,Unemployment rate (%),3.6
+Kuwait,2012,Employment-to-population ratio (%),68.5
+Oman,2012,Employment-to-population ratio (%),59.6
+Qatar,2012,Labour force participation rate (%),86.5
+Qatar,2012,Unemployment rate (%),0.5
+Qatar,2012,Employment-to-population ratio (%),86.1
+Saudi Arabia,2012,Labour force participation rate (%),54.1
+Saudi Arabia,2012,Unemployment rate (%),5.5
+Saudi Arabia,2012,Employment-to-population ratio (%),51.1
+Bahrain,2013,Labour force participation rate (%),72.1
+Bahrain,2013,Employment-to-population ratio (%),71.2
+Kuwait,2013,Labour force participation rate (%),67.2
+Kuwait,2013,Unemployment rate (%),3.6
+Kuwait,2013,Employment-to-population ratio (%),64.8
+Oman,2013,Employment-to-population ratio (%),61.7
+Qatar,2013,Labour force participation rate (%),87.2
+Qatar,2013,Unemployment rate (%),0.3
+Qatar,2013,Employment-to-population ratio (%),86.9
+Saudi Arabia,2013,Labour force participation rate (%),54.0
+Saudi Arabia,2013,Unemployment rate (%),5.6
+Saudi Arabia,2013,Employment-to-population ratio (%),51.0
+Bahrain,2014,Labour force participation rate (%),71.0
+Bahrain,2014,Employment-to-population ratio (%),70.3
+Kuwait,2014,Labour force participation rate (%),71.7
+Kuwait,2014,Unemployment rate (%),2.9
+Kuwait,2014,Employment-to-population ratio (%),69.7
+Oman,2014,Employment-to-population ratio (%),61.3
+Qatar,2014,Labour force participation rate (%),87.6
+Qatar,2014,Unemployment rate (%),0.2
+Qatar,2014,Employment-to-population ratio (%),87.4
+Saudi Arabia,2014,Labour force participation rate (%),54.1
+Saudi Arabia,2014,Unemployment rate (%),5.7
+Saudi Arabia,2014,Employment-to-population ratio (%),51.0
+Bahrain,2015,Labour force participation rate (%),71.6
+Bahrain,2015,Employment-to-population ratio (%),70.9
+Kuwait,2015,Labour force participation rate (%),75.9
+Kuwait,2015,Unemployment rate (%),1.9
+Kuwait,2015,Employment-to-population ratio (%),74.5
+Oman,2015,Employment-to-population ratio (%),62.9
+Qatar,2015,Labour force participation rate (%),88.6
+Qatar,2015,Unemployment rate (%),0.2
+Qatar,2015,Employment-to-population ratio (%),88.5
+Saudi Arabia,2015,Labour force participation rate (%),54.0
+Saudi Arabia,2015,Unemployment rate (%),5.6
+Saudi Arabia,2015,Employment-to-population ratio (%),51.0
+Emirates,2016,Labour force participation rate (%),80.6
+Emirates,2016,Unemployment rate (%),1.6
+Bahrain,2016,Labour force participation rate (%),72.0
+Bahrain,2016,Employment-to-population ratio (%),71.2
+Kuwait,2016,Labour force participation rate (%),73.8
+Kuwait,2016,Unemployment rate (%),2.2
+Kuwait,2016,Employment-to-population ratio (%),59.6
+Oman,2016,Labour force participation rate (%),65.4
+Oman,2016,Employment-to-population ratio (%),64.1
+Qatar,2016,Labour force participation rate (%),89.1
+Qatar,2016,Unemployment rate (%),0.1
+Qatar,2016,Employment-to-population ratio (%),88.9
+Saudi Arabia,2016,Labour force participation rate (%),56.46720108243184
+Saudi Arabia,2016,Unemployment rate (%),5.636801
+Saudi Arabia,2016,Employment-to-population ratio (%),52.1
+Emirates,2017,Labour force participation rate (%),80.8
+Emirates,2017,Unemployment rate (%),2.45836
+Kuwait,2017,Labour force participation rate (%),73.8
+Kuwait,2017,Unemployment rate (%),2.2
+Kuwait,2017,Employment-to-population ratio (%),60.4
+Oman,2017,Employment-to-population ratio (%),63.6
+Qatar,2017,Labour force participation rate (%),88.4
+Qatar,2017,Unemployment rate (%),0.1
+Qatar,2017,Employment-to-population ratio (%),88.3
+Saudi Arabia,2017,Labour force participation rate (%),55.6
+Saudi Arabia,2017,Unemployment rate (%),6.0
+Saudi Arabia,2017,Employment-to-population ratio (%),51.0
+Emirates,2018,Labour force participation rate (%),80.9
+Emirates,2018,Unemployment rate (%),2.2
+Oman,2018,Labour force participation rate (%),63.53009126733048
+Oman,2018,Employment-to-population ratio (%),63.53009126733048
+Qatar,2018,Labour force participation rate (%),88.3
+Qatar,2018,Unemployment rate (%),0.1
+Saudi Arabia,2018,Labour force participation rate (%),55.9
+Saudi Arabia,2018,Unemployment rate (%),6.042056
+Emirates,2019,Labour force participation rate (%),80.11464
+Emirates,2019,Unemployment rate (%),2.226987
+Qatar,2019,Labour force participation rate (%),88.18455
+Qatar,2019,Unemployment rate (%),0.1
+Saudi Arabia,2019,Labour force participation rate (%),58.8
+Saudi Arabia,2019,Unemployment rate (%),5.673042
+Bahrain,2015,Youth employment-to-population ratio (15–24) (%),41.8259726839788
+Bahrain,2016,Youth employment-to-population ratio (15–24) (%),41.71368748825598
+Bahrain,2017,Youth employment-to-population ratio (15–24) (%),44.27112708209119
+Bahrain,2018,Youth employment-to-population ratio (15–24) (%),43.23044867925915
+Bahrain,2019,Youth employment-to-population ratio (15–24) (%),44.004262658888415
+Bahrain,2020,Youth employment-to-population ratio (15–24) (%),43.74406704736935
+Emirates,2015,Youth employment-to-population ratio (15–24) (%),100.0
+Emirates,2016,Youth employment-to-population ratio (15–24) (%),100.0
+Emirates,2017,Youth employment-to-population ratio (15–24) (%),100.0
+Emirates,2018,Youth employment-to-population ratio (15–24) (%),100.0
+Emirates,2019,Youth employment-to-population ratio (15–24) (%),100.0
+Emirates,2020,Youth employment-to-population ratio (15–24) (%),100.0
+Kuwait,2015,Youth employment-to-population ratio (15–24) (%),14.624904564862904
+Kuwait,2016,Youth employment-to-population ratio (15–24) (%),21.228756117106652
+Kuwait,2017,Youth employment-to-population ratio (15–24) (%),20.80882878695792
+Kuwait,2018,Youth employment-to-population ratio (15–24) (%),20.16982403722735
+Kuwait,2019,Youth employment-to-population ratio (15–24) (%),17.859046292138604
+Kuwait,2020,Youth employment-to-population ratio (15–24) (%),9.942675132506054
+Oman,2015,Youth employment-to-population ratio (15–24) (%),26.602119963287564
+Oman,2016,Youth employment-to-population ratio (15–24) (%),29.56933861868705
+Oman,2017,Youth employment-to-population ratio (15–24) (%),28.515855480372093
+Oman,2018,Youth employment-to-population ratio (15–24) (%),25.447957487432486
+Oman,2019,Youth employment-to-population ratio (15–24) (%),23.120140913508262
+Oman,2020,Youth employment-to-population ratio (15–24) (%),15.492150855876908
+Qatar,2015,Youth employment-to-population ratio (15–24) (%),62.27735686731607
+Qatar,2016,Youth employment-to-population ratio (15–24) (%),65.54183163818786
+Qatar,2017,Youth employment-to-population ratio (15–24) (%),62.169805564325074
+Qatar,2018,Youth employment-to-population ratio (15–24) (%),68.08765509748986
+Qatar,2019,Youth employment-to-population ratio (15–24) (%),72.90060454029377
+Qatar,2020,Youth employment-to-population ratio (15–24) (%),70.07463369299356
+Saudi Arabia,2015,Youth employment-to-population ratio (15–24) (%),13.062358848612776
+Saudi Arabia,2016,Youth employment-to-population ratio (15–24) (%),17.933600438370018
+Saudi Arabia,2017,Youth employment-to-population ratio (15–24) (%),15.537371011652649
+Saudi Arabia,2018,Youth employment-to-population ratio (15–24) (%),11.923641505154265
+Saudi Arabia,2019,Youth employment-to-population ratio (15–24) (%),10.996686833043452
+Saudi Arabia,2020,Youth employment-to-population ratio (15–24) (%),10.250567504854915

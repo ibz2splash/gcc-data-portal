@@ -1,0 +1,10 @@
+streamlit>=1.32.0
+pandas>=2.1.0
+numpy>=1.26.0
+plotly>=5.18.0
+
+pyyaml>=6.0        # if you load YAML configs
+scipy>=1.11.0     # if you do advanced statistics
+
+pip install -r requirements.txt
+streamlit run Home.py
